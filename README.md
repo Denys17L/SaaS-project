@@ -1,4 +1,5 @@
-# CampusDAO
+# CampusDAO 
+Autor: Denys Lysak 58089
 
 Platforma do transparentnego zarządzania budżetem i wspólnymi decyzjami w studenckim klubie z wykorzystaniem technologii blockchain.
 
